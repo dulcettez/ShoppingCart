@@ -2,7 +2,7 @@ package model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "yourname_product")
+@Table(name = "haton_alkhaldi_product")
 
 
 public class Product {
