@@ -3,7 +3,7 @@ package model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "yourname_cart_item")
+@Table(name = "haton_alkhaldi_cart_item")
 
 public class ShoppingCartItem {
 
